@@ -7,7 +7,7 @@ invoices = {
     "Company 3": 112000,
     "Company 4": 72000,
     "Company 5": 198000,
-    "Company 6": 9700000
+    "Company 6": 97000
 }
 
 # Sort companies based on invoice amounts
